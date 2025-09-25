@@ -4,5 +4,7 @@ public class Sample
 	{
 		System.out.println("Welcome");
 		System.out.println("to CI Pipeline");
+		System.out.println("Updated messange for CI in maven");
+		
 	}
 }
